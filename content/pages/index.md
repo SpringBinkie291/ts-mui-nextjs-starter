@@ -58,10 +58,13 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Use the Synergy Core at a Beacon and your entire team escapes, and
+          waits for the other team on a smaller and different world. The
+          destabilization starts after the Beacon is activated, as the other
+          team races to escape by any means necessary. Failing to escape in time
+          means game over, while if they do escape, the join the other team on
+          their new world. The last remaining team standing in the new world
+          wins it all!
         actions:
           - type: Button
             label: Read the Docs

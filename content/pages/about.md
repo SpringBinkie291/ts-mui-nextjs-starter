@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Developer Updates
-    subtitle: This is the subtitle
+    subtitle: Find everything new and in the works here!
     text: >
       This is **Markdown** *text*.
 

@@ -43,10 +43,10 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Eliminate bosses and others to find items and Cores. Cores are
+          powerful items with spiritiual powers. They are all incredible, but
+          the goal is to find a Synergy Core. They are your only way out of The
+          Dreamscape!
         actions:
           - type: Button
             label: Read the Docs

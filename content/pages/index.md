@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: ''
+        url: 'https://store.steampowered.com/'
         size: large
         variant: contained
         color: primary

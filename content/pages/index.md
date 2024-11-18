@@ -49,7 +49,7 @@ sections:
         title: Escape!
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Screenshot (325).png
           altText: Third item image
         text: >
           Use the Synergy Core at a Beacon and your entire team escapes, and

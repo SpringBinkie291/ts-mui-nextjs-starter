@@ -21,7 +21,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: The Dreamscape
-    subtitle: Section subtitle here
+    subtitle: 'How it works :'
     items:
       - type: Card
         title: First Card Title

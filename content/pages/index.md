@@ -37,7 +37,7 @@ sections:
         title: Defeat bosses and loot
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Screenshot (325).png
           altText: Second item image
         text: >
           Eliminate bosses and others to find items and Cores. Cores are

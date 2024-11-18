@@ -59,8 +59,5 @@ sections:
           means game over, while if they do escape, the join the other team on
           their new world. The last remaining team standing in the new world
           wins it all!
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
 ---

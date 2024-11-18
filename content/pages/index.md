@@ -32,10 +32,7 @@ sections:
         text: >
           Dive in as your favorite Scaper in 4v4 team-action! Be quick to find
           items that boost your teams stats!
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Defeat bosses and loot
         image:

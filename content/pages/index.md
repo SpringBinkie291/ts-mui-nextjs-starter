@@ -10,7 +10,7 @@ sections:
       more! Jump in today!
     actions:
       - type: Button
-        label: Start Building
+        label: Download Now
         url: 'https://store.steampowered.com/'
         size: large
         variant: contained

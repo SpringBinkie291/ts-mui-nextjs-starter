@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "The Dreamscape | Open Beta",
         "navLinks": [
             {
                 "type": "Link",
@@ -12,14 +12,8 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Updates",
                 "url": "/about",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
             }
         ]
@@ -32,18 +26,6 @@
                 "label": "Home",
                 "underline": "hover",
                 "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": "/about"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
             }
         ]
     }

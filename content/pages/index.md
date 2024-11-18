@@ -3,76 +3,61 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: The Dreamscape
+    subtitle: Open Beta Demo is FINALLY here!
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Discover all that The Range has to offer, exploring new Scapers, Items and
+      more! Jump in today!
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: Download Now
+        url: 'https://store.steampowered.com/'
         size: large
         variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
         color: primary
     image:
       type: Image
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: The Dreamscape
+    subtitle: 'How it works :'
     items:
       - type: Card
-        title: First Card Title
+        title: Jump in
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Screenshot (325).png
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+          Dive in as your favorite Scaper in 4v4 team-action! Be quick to find
+          items that boost your teams stats!
+        actions: []
       - type: Card
-        title: Second Card Title
+        title: Defeat bosses and loot
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Screenshot (325).png
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+          Eliminate bosses and others to find items and Cores. Cores are
+          powerful items with spiritiual powers. They are all incredible, but
+          the goal is to find a Synergy Core. They are your only way out of The
+          Dreamscape!
+        actions: []
       - type: Card
-        title: Third Card Title
+        title: Escape!
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Screenshot (325).png
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+          Use the Synergy Core at a Beacon and your entire team escapes, and
+          waits for the other team on a smaller and different world. The
+          destabilization starts after the Beacon is activated, as the other
+          team races to escape by any means necessary. Failing to escape in time
+          means game over, while if they do escape, the join the other team on
+          their new world. The last remaining team standing in the new world
+          wins it all!
+        actions: []
 ---

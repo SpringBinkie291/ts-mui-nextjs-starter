@@ -30,10 +30,8 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Dive in as your favorite Scaper in 4v4 team-action! Be quick to find
+          items that boost your teams stats!
         actions:
           - type: Button
             label: Read the Docs

@@ -44,10 +44,7 @@ sections:
           powerful items with spiritiual powers. They are all incredible, but
           the goal is to find a Synergy Core. They are your only way out of The
           Dreamscape!
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Escape!
         image:

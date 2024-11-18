@@ -27,7 +27,7 @@ sections:
         title: Jump in
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Screenshot (325).png
           altText: First item image
         text: >
           Dive in as your favorite Scaper in 4v4 team-action! Be quick to find

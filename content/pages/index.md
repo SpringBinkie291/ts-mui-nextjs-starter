@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: The Dreamscape
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Open Beta Demo is FINALLY here!
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn

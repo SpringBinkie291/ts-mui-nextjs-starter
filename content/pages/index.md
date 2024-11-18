@@ -6,9 +6,8 @@ sections:
     title: The Dreamscape
     subtitle: Open Beta Demo is FINALLY here!
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Discover all that The Range has to offer, exploring new Scapers, Items and
+      more! Jump in today!
     actions:
       - type: Button
         label: Start Building
